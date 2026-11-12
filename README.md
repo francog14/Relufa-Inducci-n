@@ -18,3 +18,6 @@ Los pedidos, fotos y ubicaciones son simulados. El progreso se guarda en el nave
 
 Pulsa Iniciar inducción. La guía explica cada acción, resalta el control y avanza cuando completas el paso. Incluye subtítulos, pausa, repetir y silenciar. Usa SpeechSynthesis con una voz en español del dispositivo; si no está disponible, los subtítulos permiten continuar. Al ocultar la pestaña se pausa la guía. No requiere API keys ni un servicio de audio propio.
 
+
+La inducción incluye dos ejercicios consecutivos: entrega exitosa y entrega fallida por cliente ausente. La guía termina después de practicar ambos, sin abrir el historial. Se necesitan al menos dos pedidos pendientes al iniciar.
+

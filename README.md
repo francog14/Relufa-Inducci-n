@@ -21,3 +21,6 @@ Pulsa Iniciar inducción. La guía explica cada acción, resalta el control y av
 
 La inducción incluye dos ejercicios consecutivos: entrega exitosa y entrega fallida por cliente ausente. La guía termina después de practicar ambos, sin abrir el historial. Se necesitan al menos dos pedidos pendientes al iniciar.
 
+
+Asignación actual: incorpora los cinco pedidos del carro individualmente, verifica la ruta en cero durante la asignación y cuadra con el auditor antes de confirmar la salida. Todo se representa mediante acciones simuladas. No se escanean rutas.
+
